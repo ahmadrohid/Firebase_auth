@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433662811690",
+    "project_id": "mobile-ii-f143e",
+    "storage_bucket": "mobile-ii-f143e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433662811690:android:9845baffbe9e4438bdad53",
+        "android_client_info": {
+          "package_name": "com.example.tugasmobile2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-2CYz_Q3_EVZ3DS6uYLoPm8BrJ_YcQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
